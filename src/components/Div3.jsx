@@ -1,5 +1,5 @@
 import React from 'react'
-import frame from '../assets/Frame8.png'
+import frame from '../assets/frame8.png'
 import quote from '../assets/quote.png'
 
 
